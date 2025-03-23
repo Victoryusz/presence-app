@@ -1,0 +1,1 @@
+# Rotas globais do projeto

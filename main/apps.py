@@ -1,0 +1,1 @@
+# Configuração do app para ser reconhecido pelo Django

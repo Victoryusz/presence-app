@@ -1,0 +1,1 @@
+# Rotas específicas do app (registro, dashboard, etc.) são definidas em main/urls.py

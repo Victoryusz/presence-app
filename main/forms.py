@@ -1,0 +1,1 @@
+# Formulários (ex.: RegistrationForm) para a aplicação principal.

@@ -1,0 +1,1 @@
+# Configurações (incluindo banco, email, mídia, etc.)

@@ -1,0 +1,1 @@
+# Modelos (ex.: Registration) para a aplicação principal.

@@ -1,0 +1,1 @@
+# Registro dos modelos no admin do Django para serem acessados pelo painel de administração
